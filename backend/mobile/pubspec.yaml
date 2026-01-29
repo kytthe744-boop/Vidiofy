@@ -1,0 +1,11 @@
+name: vidiofy
+description: Image + Prompt to Video
+environment:
+  sdk: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+  image_picker: ^1.0.4
+  path_provider: ^2.1.2
